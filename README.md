@@ -1,5 +1,14 @@
 # Hacktoberfest!🎃
 
+
+<head>
+    <meta property="og:title" content="Hacktoberfest">
+    <meta property="og:description" content="Welcome to Hacktoberfest! This is a beginner-friendly open-source project that welcomes contributors of all levels, whether it's your first time or you're a seasoned pro.🚀">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/58382258?s=400&u=aed710491f815f8159d1a6cfcfef6195256057f7&v=4">
+</head>
+
+
+
 Welcome to Hacktoberfest! This is a beginner-friendly open-source project that welcomes contributors of all levels, whether it's your first time or you're a seasoned pro.🚀
 
 
