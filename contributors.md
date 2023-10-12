@@ -1,1 +1,2 @@
-Arjun Pandit: [Arjun Pandit](https://github.com/arjunpndt)
+[Arjun Pandit](https://github.com/arjunpndt)
+<br>
