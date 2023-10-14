@@ -38,7 +38,7 @@ git checkout -b your-branch-name
 
 ### 4. Make Your Contributions
 
-- <b>Code</b>: If you're comfortable with coding, feel free to choose any language you're familiar with. You can add any piece of code, algorithm explanation, or other relevant content under the 'Code' folder for better organization.
+- <b>Code</b>: If you're up for contributing code or algorithms, simply place them in the 'Code' folder. If you have a different project or any other topic in mind, create a dedicated folder for it outside of 'Code' like a 'Snake-Game' folder. Use a language you're comfortable with, and let your creativity flow!
 - <b>Add Your Name</b>: If you're new to coding or just want to participate in a simple way, you can add your name to the contributors.md file using the following format:
 ```markdown
 [YOUR NAME](https://github.com/your-username)
